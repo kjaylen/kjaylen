@@ -2,7 +2,7 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Han-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanihusam/) [![Mail Badge](https://img.shields.io/badge/-Han-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hani.husam@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Han-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenner9hernandez@gmail.com)
 
 
 - 🔭 I’m currently working at home as a freelancer, and full-time IT Techician at [Silk Grass Farms](https://www.silkgrassfarms.com). I specialized in Full stack software development.
